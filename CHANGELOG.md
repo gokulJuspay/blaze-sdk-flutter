@@ -1,5 +1,9 @@
 # Releases
 
+## 0.8.4
+
+- chore(release): 0.8.3
+
 ## 0.8.3
 
 - BZ-5120: fix: resolve Blaze.process crash under Flutter scene-based lifecycle
